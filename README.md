@@ -5,4 +5,6 @@ Estamos disponibilizando acá los notebooks utilizandos para nuestro paper **A N
 Los notebooks de los experimentos finales son:
  - project-lastnewdata_runall.ipynb
  - project-lastlegacy_runall.ipynb
+ - **project-lastlegacy_runall.ipynb** //Include the last features used and results in DBPedia query logs form LSQ.
+
 
